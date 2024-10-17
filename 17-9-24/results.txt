@@ -1,0 +1,2 @@
+Highest marks in CSS are: 70
+Your results are stored in a file. Please check the results.txt file.
